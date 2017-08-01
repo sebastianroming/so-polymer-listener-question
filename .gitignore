@@ -1,0 +1,7 @@
+node_modules
+dist
+build
+bower_components
+.tmp
+.publish/
+npm-debug.log
